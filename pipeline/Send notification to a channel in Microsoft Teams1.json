@@ -73,7 +73,7 @@
 			},
 			"activityMessage": {
 				"type": "string",
-				"defaultValue": "Overwrite the value from the calling activity "
+				"defaultValue": "Hello from Activity 2"
 			},
 			"activityDuration": {
 				"type": "string",
