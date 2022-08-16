@@ -1,5 +1,5 @@
 {
-	"name": "Send notification to a channel in Microsoft Teams1",
+	"name": "Send notification to a ADF Team",
 	"properties": {
 		"description": "Use this pipeline template to send notification on a teams channel. \n\nhttps://adf.azure.com/en-us/monitoring/pipelineruns/f90465ff-b8ea-4f0f-9110-178164bc8ee4?factory=/subscriptions/7b68d2b5-dfbe-46e1-938f-98ed143b7953/resourceGroups/demo101-rg/providers/Microsoft.DataFactory/factories/demofactory101",
 		"activities": [
@@ -73,7 +73,7 @@
 			},
 			"activityMessage": {
 				"type": "string",
-				"defaultValue": "Hello from Activity 2"
+				"defaultValue": "Overwrite the value from the calling activity "
 			},
 			"activityDuration": {
 				"type": "string",
